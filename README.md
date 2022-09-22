@@ -9,7 +9,7 @@
 <li>😊 My pronouns: She/Her</li>
 <li>🤝 I’m currently working as a volunteer.</li>
 <li>🌱 I’m currently studying React.</li>
-<li>⚡ Fun fact: I love watching constructions!</li>
+<li>⚡ Fun fact: I love watching construction sites!</li>
 </ul>
 <br>
 
