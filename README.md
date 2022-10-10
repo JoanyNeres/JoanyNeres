@@ -7,8 +7,8 @@
 <ul>
 <li>👥 My Linkedin profile: https://www.linkedin.com/in/joany-neres/</li>
 <li>😊 My pronouns: She/Her</li>
-<li>🤝 I’m currently working as a volunteer.</li>
-<li>🌱 I’m currently studying React.</li>
+<li>🤝 I’m currently working as a volunteer in NYCH.</li>
+<li>🌱 I’m currently studying React and QA.</li>
 <li>⚡ Fun fact: I love watching construction sites!</li>
 </ul>
 <br>
