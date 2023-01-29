@@ -16,12 +16,12 @@
 
   
   
- <img align="right" alt="Joany-gif" height="150em" src="https://cdn.discordapp.com/attachments/1016745958727491615/1016746187954602034/Joany-gif.gif">
+ <img align="center" alt="Joany-gif" height="150em" src="https://cdn.discordapp.com/attachments/1016745958727491615/1016746187954602034/Joany-gif.gif">
  <br>
  <br>
  
 
-  <div align="left">
+  <div>
     <img align="center" alt="Joany-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Joany-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Joany-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
