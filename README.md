@@ -14,11 +14,7 @@
 <br>
 
 <img align="left" alt="Joany-gif" height="150em" src="https://cdn.discordapp.com/attachments/1016745958727491615/1016746187954602034/Joany-gif.gif">
-
-<div>
-  <a href="github.com/joanyneres">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanyneres&layout=compact&langs_count=7&theme=moltack"/>
-</div>
+<br>
 <br>
 
 <div>
