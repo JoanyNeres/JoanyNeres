@@ -7,7 +7,7 @@
 <ul>
 <li>👥 My Linkedin profile: https://www.linkedin.com/in/joany-neres/</li>
 <li>😊 My pronouns: She/Her</li>
-<li>🤝 I’m working as a IT Support Specialist.</li>
+<li>🤝 I’m working as a Support Specialist.</li>
 <li>🌱 I’m taking the course: Meta Front-End Developer Professional Certificate.</li>
 <li>⚡ Fun fact: I love watching construction sites!</li>
 </ul>
